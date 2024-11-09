@@ -1,0 +1,12 @@
+streamlit
+requests
+tweepy
+praw
+nltk
+textblob
+pandas
+plotly
+pymongo
+auth0-python
+python-dotenv
+schedule
