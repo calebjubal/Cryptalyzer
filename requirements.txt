@@ -10,3 +10,4 @@ pymongo
 auth0-python
 python-dotenv
 schedule
+authlib
